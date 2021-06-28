@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "fda5333c3fee9246",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02f8f009566079c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design patterns.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27eb6f00568d1416",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9845b6f10c8c9a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d74fecbb2afc302",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be71bf27a6a8a58e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f56a83dae5bd346",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73bfb85923e01158",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eb03aa2bfdc7fc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1ba8947a5eeda9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design patterns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "082eb60626b33ba7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e02f8f009566079c",
+  "lastOpenFiles": [
+    "Design patterns.md",
+    "2021-06-28.md"
+  ]
+}
